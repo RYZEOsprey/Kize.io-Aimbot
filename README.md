@@ -2,7 +2,8 @@
 A simple aimbot for Kize.io, it is not fully perfect but it works.
 
 ## How to use?
- - Head to the game (s0urces.io).
- - Open the development console (ctrl+shift+i).
- - Copy and paste the contents of "script.js" into the console and hit enter.
- - The words needed to hack people will automatically be typed now, enjoy ;)
+ - Download and install Fiddler (https://www.telerik.com/download/fiddler).
+ - On fiddler, follow these steps (https://i.imgur.com/VyyCugC.gifv).
+ - On fiddler, make sure "Capture traffic" is enabled and keep Fiddler opened if you are playing the game.
+ - Head to the game (kize.io).
+ - The aimbot will be enabled upon starting a match, enjoy ;)
